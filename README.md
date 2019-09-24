@@ -1,1 +1,1 @@
-# software-construction-project
+# information about the software-construction-project
