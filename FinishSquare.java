@@ -1,0 +1,3 @@
+class FinishSquare extends Square {
+
+}
