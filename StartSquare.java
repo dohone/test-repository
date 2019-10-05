@@ -1,0 +1,3 @@
+class StartSquare extends Square {
+
+}
