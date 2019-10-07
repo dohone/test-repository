@@ -1,6 +1,5 @@
 class LadderOrSnake extends Square {
-    LadderOrSnake(int initial, int end) {
-        this.initial = initial;
+    LadderOrSnake(int end) {
         this.end = end;
     }
 }
